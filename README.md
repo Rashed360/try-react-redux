@@ -1,6 +1,6 @@
 # try-react-redux
 
-```json
+```cmd
 reducers {
   counterReducer,
   toggleReducer
